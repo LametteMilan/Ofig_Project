@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.1"
+  },
+  "name": "e02-s08e02-ofig-lamettemilan",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "## Étape 1: Mise en place",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Samoussas/E02-S08E02-OFig-LametteMilan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Samoussas/E02-S08E02-OFig-LametteMilan/issues"
+  },
+  "homepage": "https://github.com/O-clock-Samoussas/E02-S08E02-OFig-LametteMilan#readme"
+}
